@@ -51,3 +51,5 @@ Bu projede aşağıdaki kütüphaneler kullanılmaktadır:
 
 ```bash
 pip install opencv-python numpy tensorflow scikit-learn matplotlib seaborn
+
+Kaggle: https://www.kaggle.com/code/ozl3m3r/aygaz-g-r-nt-leme
